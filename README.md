@@ -1,3 +1,4 @@
+# _[COMPLETED]_
 # Multi-Variate Time Series Regression with LSTM for Seoul Bike-Renting Dataset
 <p>
 In this project I work on an LSTM implementation for making a regression prediction on the number of bikes to be made available for rental. 
