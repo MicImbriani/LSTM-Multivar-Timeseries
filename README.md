@@ -1,2 +1,2 @@
-# Multi-Variate Time Series Regression for Seoul Bike-Renting Dataset
+# Multi-Variate Time Series Regression with LSTM for Seoul Bike-Renting Dataset
 
