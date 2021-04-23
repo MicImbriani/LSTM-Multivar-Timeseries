@@ -25,3 +25,4 @@ Keras Tuner and Hyperband module were employed to find the optimal parameters. <
   It generated an optimal result of 192 neurons for the first layer, 352 neurons for the second layer and 448 neurons for the third layer. All layers have a bias neuron which is initialised at zero.
 </p>
 Dataset Donwload: http://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+Eploratory Analysis Notebook based on: https://www.kaggle.com/srvmig/seoulbike
